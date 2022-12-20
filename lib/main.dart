@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
-        title: 'Flutter Firebase Auth Demo',
+        title: 'Flutter tangtee',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
